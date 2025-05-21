@@ -1,4 +1,4 @@
-Jupyter Notebook of basic Programs in Python. Please refer below for questions.
+python_basic_programs.ipynb is Jupyter Notebook of basic Programs in Python. Please refer below for questions.
 
 1.Program to calcualate the age of a person using birth year as input from user. Print personal details using formatted print(fstring)
 2.Program to check eligibility for a driving license ask user for age, has_permission, has_license, print if he is elgibible for liscense or already has one
